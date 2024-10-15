@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Aziz Skaib</h1>
 <h3 align="center">A passionate frontend developer From Bangladesh and Professional about Software Quality Assuranse</h3>
-
+<img src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=O2cT6JPnp1MfGg&pid=ImgRaw&r=0" align="right" alt="coding" width="400" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushansakib&label=Profile%20views&color=0e75b6&style=flat" alt="tushansakib" /> </p>
 
 - 🌱 I’m currently learning **SQA and Front-end development**
