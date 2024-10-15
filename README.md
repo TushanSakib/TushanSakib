@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **react, manual testing & automation testing**
 
-- 📫 How to reach me **azizsakib@gmail.com**
+- 📫 How to reach me **azizsakib24@gmail.com**
 
 - 📄 Know about my experiences [https://sakib-portfolio-alpha-wine.vercel.app/](https://sakib-portfolio-alpha-wine.vercel.app/)
 
