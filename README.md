@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **SQA and Front-end development**
 
-- 👨‍💻 All of my projects are available at [https://sakib-portfolio-alpha-wine.vercel.app/](https://sakib-portfolio-alpha-wine.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://sakib-portfolio-pi.vercel.app/](https://sakib-portfolio-pi.vercel.app/)
 
 - 💬 Ask me about **react, manual testing & automation testing**
 
 - 📫 How to reach me **azizsakib24@gmail.com**
 
-- 📄 Know about my experiences [https://sakib-portfolio-alpha-wine.vercel.app/](https://sakib-portfolio-alpha-wine.vercel.app/)
+- 📄 Know about my experiences [https://sakib-portfolio-pi.vercel.app/](https://sakib-portfolio-pi.vercel.app/)
 
 - ⚡ Fun fact **I think I can deliver random jokes**
 
