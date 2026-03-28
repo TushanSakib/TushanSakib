@@ -3,8 +3,8 @@
 <h3 align="center">QA Engineer & Automation Tester | Playwright, k6, Postman, RestAssured | Logic-driven coder building tomorrow's tech.</h3>
 🔧 What I Do
   - Logic over rote: Solve real-world problems with clean code in Python —no memorization, just mastery.
-  - Architect API/load testing frameworks.
-  - Passionate about emerging tech to optimize business flows and automate the mundane.
+	- Architect API/load testing frameworks.
+  - Passionate about emerging tech to optimize business flows and automation.
 
 **Vision**: Code a more innovative world, one repo at a time.
 <img src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=O2cT6JPnp1MfGg&pid=ImgRaw&r=0" align="right" alt="coding" width="400" />
