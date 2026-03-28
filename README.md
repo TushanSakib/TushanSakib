@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Abdul Aziz Skaib</h1>
 <h3 align="center">QA Engineer & Automation Tester | Playwright, k6, Postman, RestAssured | Logic-driven coder building tomorrow's tech.</h3>
 🔧 What I Do
-- **Logic over rote**: Solve real-world problems with clean code in **Python —no memorization, just mastery.
-- Architect **API/load testing frameworks**.
+- Logic over rote: Solve real-world problems with clean code in Python —no memorization, just mastery.
+- Architect API/load testing frameworks.
 - Passionate about emerging tech to optimize business flows and automate the mundane.
 
 **Vision**: Code a more innovative world, one repo at a time.
