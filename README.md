@@ -1,16 +1,16 @@
 ![logo](https://github.com/TushanSakib/TushanSakib/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Abdul Aziz Skaib</h1>
-<h3 align="center">**QA Engineer & Automation Tester** | Playwright, k6, Postman, RestAssured | Logic-driven coder building tomorrow's tech.</h3>
-<p>🔧 What I Do
-- **Logic over rote**: Solve real-world problems with clean code in **Python** —no memorization, just mastery.
+<h3 align="center">QA Engineer & Automation Tester | Playwright, k6, Postman, RestAssured | Logic-driven coder building tomorrow's tech.</h3>
+🔧 What I Do
+- **Logic over rote**: Solve real-world problems with clean code in **Python —no memorization, just mastery.
 - Architect **API/load testing frameworks**.
 - Passionate about emerging tech to optimize business flows and automate the mundane.
 
-**Vision**: Code a more innovative world, one repo at a time.</p>
+**Vision**: Code a more innovative world, one repo at a time.
 <img src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=O2cT6JPnp1MfGg&pid=ImgRaw&r=0" align="right" alt="coding" width="400" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushansakib&label=Profile%20views&color=0e75b6&style=flat" alt="tushansakib" /> </p>
 
-- 🌱 I’m currently learning **SQA and Front-end development**
+- 🌱 I’m currently working **SQA and Automation**
 - Leetcode Profile: [https://leetcode.com/u/AzizSakib12/](https://leetcode.com/u/AzizSakib12/).
 
 - 👨‍💻 All of my projects are available at [https://aziz-sakib.vercel.app/](https://aziz-sakib.vercel.app/)
