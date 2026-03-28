@@ -1,12 +1,12 @@
 ![logo](https://github.com/TushanSakib/TushanSakib/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Abdul Aziz Skaib</h1>
-<h3 align="center">Dynamic **Software QA Engineer & Automation Tester** fueling the future of tech. Quick learner, team collaborator, and deep diver into cutting-edge tools like **Playwright**, **k6**, **Postman**,**RestAssured**.</h3>
-<h4>## 🔧 What I Do
+<<h3 align="center">**QA Engineer & Automation Tester** | Playwright, k6, Postman, RestAssured | Logic-driven coder building tomorrow's tech.</h3>
+<p>## 🔧 What I Do
 - **Logic over rote**: Solve real-world problems with clean code in **Python**, **JavaScript**, **Java**, & **Scala**—no memorization, just mastery.
 - Architect **API/load testing frameworks**, microservices mocks (**WireMock**), and data viz (**Pandas**, **Plotly**).
 - Passionate about emerging tech to optimize business flows and automate the mundane.
 
-**Vision**: Code a more innovative world, one repo at a time.</h4>
+**Vision**: Code a more innovative world, one repo at a time.</p>
 <img src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=O2cT6JPnp1MfGg&pid=ImgRaw&r=0" align="right" alt="coding" width="400" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushansakib&label=Profile%20views&color=0e75b6&style=flat" alt="tushansakib" /> </p>
 
