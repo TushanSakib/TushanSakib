@@ -1,4 +1,4 @@
-![logo](https://github.com/TushanSakib/TushanSakib/blob/main/banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Abdul Aziz Skaib</h1>
 <h3 align="center">QA Engineer & Automation Tester | Playwright, k6, Postman, RestAssured | Logic-driven coder building tomorrow's tech.</h3>
 🔧 What I Do
