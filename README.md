@@ -75,14 +75,9 @@ class AbdulAzizSakib:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aziz-Sakib&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aziz-Sakib&layout=compact&theme=tokyonight&hide_border=true"/>
-
 <img src="https://streak-stats.demolab.com?user=Aziz-Sakib&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aziz-Sakib&theme=tokyo-night&hide_border=true"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aziz-Sakib&theme=tokyonight&no-frame=true"/>
 
 </div>
 
