@@ -92,10 +92,7 @@ class AbdulAzizSakib:
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/Aziz-Sakib/Aziz-Sakib/output/github-contribution-grid-snake.svg"
   />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Aziz-Sakib/Aziz-Sakib/output/github-contribution-grid-snake.svg"
-  />
+  <img src="https://github.com/Aziz-Sakib/Aziz-Sakib/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
 </picture>
 
 ## 📫 Contact
