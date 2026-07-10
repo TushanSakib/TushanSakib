@@ -34,18 +34,17 @@ class AbdulAzizSakib:
 
     languages = [
         "Python",
-        "Java",
         "JavaScript",
         "SQL"
     ]
 
-    goal = "Senior SDET"
+    goal = "To do something exceptional"
 ```
 
 ## 🚀 About Me
 
 - 🔭 Building enterprise automation frameworks
-- 🌱 Learning Spring Boot, React & DSA
+- 🌱 Learning DSjango, Spring Boot, React & DSA
 - 🧪 API, UI & Performance Testing
 - ⚡ Passionate about quality engineering
 
@@ -59,7 +58,6 @@ class AbdulAzizSakib:
 
 ### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
