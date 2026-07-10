@@ -44,7 +44,7 @@ class AbdulAzizSakib:
 ## 🚀 About Me
 
 - 🔭 Building enterprise automation frameworks
-- 🌱 Learning DSjango, Spring Boot, React & DSA
+- 🌱 Learning Django, Spring Boot, React
 - 🧪 API, UI & Performance Testing
 - ⚡ Passionate about quality engineering
 
