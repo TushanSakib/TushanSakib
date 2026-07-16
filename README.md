@@ -9,7 +9,6 @@
 <p>
   <a href="https://aziz-sakib.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-6c5ce7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/abdul-aziz-sakib"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:azizsakib24@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=TushanSakib&style=for-the-badge&color=6c5ce7&label=Profile+Views"/>
