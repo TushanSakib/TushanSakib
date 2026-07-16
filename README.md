@@ -77,8 +77,7 @@ class AbdulAzizSakib:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TushanSakib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TushanSakib&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://raw.githubusercontent.com/TushanSakib/TushanSakib/main/github-metrics.svg" alt="GitHub metrics"/>
 
 <br/>
 
