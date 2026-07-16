@@ -1,94 +1,111 @@
-
-# Abdul Aziz Sakib 👋
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Abdul%20Aziz%20Sakib&fontSize=54&fontColor=ffffff&animation=fadeIn&desc=SQA%20Engineer%20|%20Automation%20Tester&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Abdul%20Aziz%20Sakib&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=SQA%20Engineer%20|%20Automation%20Tester&descAlignY=62&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Breaking+software+before+users+do;Playwright+%7C+Selenium+%7C+Postman+%7C+K6;Python+Automation+Engineer;Learning+Spring+Boot+%26+React)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Breaking+software+before+users+do;Playwright+%7C+Selenium+%7C+Postman+%7C+K6;Python+Automation+Engineer;Learning+Spring+Boot+%26+React" alt="Typing SVG"/>
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=googlechrome)](https://aziz-sakib.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Aziz%20Sakib-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdul-aziz-sakib)
-[![Email](https://img.shields.io/badge/Email-azizsakib24@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:azizsakib24@gmail.com)
+<p>
+  <a href="https://aziz-sakib.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-6c5ce7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abdul-aziz-sakib"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:azizsakib24@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-![](https://komarev.com/ghpvc/?username=Aziz-Sakib&style=for-the-badge&color=blueviolet)
+<img src="https://komarev.com/ghpvc/?username=Aziz-Sakib&style=for-the-badge&color=6c5ce7&label=Profile+Views"/>
 
 </div>
 
----
+<br/>
 
-## 💻 Terminal
+## 🧭 About Me
 
 ```python
 class AbdulAzizSakib:
-    role = "SQA Engineer"
-    company = "BRAC IT Services"
-    location = "Dhaka, Bangladesh"
+    def __init__(self):
+        self.role      = "SQA Engineer"
+        self.company   = "BRAC IT Services"
+        self.location  = "Dhaka, Bangladesh"
+        self.focus     = ["API Testing", "UI Automation", "Performance Testing"]
+        self.learning  = ["Django", "Spring Boot", "React"]
+        self.goal      = "To do something exceptional"
 
-    automation = [
-        "Playwright",
-        "Selenium",
-        "Postman",
-        "K6"
-    ]
-
-    languages = [
-        "Python",
-        "JavaScript",
-        "SQL"
-    ]
-
-    goal = "To do something exceptional"
+    def say_hi(self):
+        print("Thanks for stopping by — let's talk quality engineering ⚡")
 ```
 
-## 🚀 About Me
+- 🔭 Building and scaling enterprise test automation frameworks
+- 🧪 Focused on API, UI, and Performance testing
+- 🌱 Currently leveling up in Django, Spring Boot, and React
+- ⚡ Passionate about breaking things before users ever see the bug
 
-- 🔭 Building enterprise automation frameworks
-- 🌱 Learning Django, Spring Boot, React
-- 🧪 API, UI & Performance Testing
-- ⚡ Passionate about quality engineering
+<br/>
 
 ## 🛠 Tech Stack
 
-### Automation
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![K6](https://img.shields.io/badge/K6-7D64FF?style=for-the-badge)
-
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-
-## 📌 Projects
-
-| Project | Highlights |
-|---|---|
-| BRAC Payroll | Playwright, K6, 1200+ test cases |
-| HRMS ERP | Selenium, Regression Automation |
-| BRAC International | API Testing, Postman |
-
-## 📊 GitHub Dashboard
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Aziz-Sakib&theme=tokyonight&hide_border=true"/>
+**Automation & Testing**
+<br/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aziz-Sakib&theme=tokyo-night&hide_border=true"/>
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 </div>
 
-## 📫 Contact
+<br/>
 
-- Portfolio: https://aziz-sakib.vercel.app
-- LinkedIn: https://www.linkedin.com/in/abdul-aziz-sakib
-- Email: azizsakib24@gmail.com
+## 📌 Featured Projects
+
+| Project | Highlights |
+|---|---|
+| **BRAC Payroll** | Playwright + K6 · 1,200+ automated test cases |
+| **HRMS ERP** | Selenium · Full regression automation suite |
+| **BRAC International** | API testing & contract validation with Postman |
+
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-> Breaking software so users don't have to.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aziz-Sakib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aziz-Sakib&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient"/>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Aziz-Sakib&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<!--START_SECTION:contribution-snake-->
+<img src="https://raw.githubusercontent.com/Aziz-Sakib/Aziz-Sakib/output/github-contribution-grid-snake.svg" alt="Contribution snake animation"/>
+<!--END_SECTION:contribution-snake-->
+
+</div>
+
+> ℹ️ This animated graph is generated by **your own GitHub Action** (see `SETUP.md`), so it never depends on a third-party site staying online — that's exactly the problem with the old activity-graph widget.
+
+<br/>
+
+<div align="center">
+
+**Breaking software so users don't have to.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient&customColorList=6,11,20"/>
 
 </div>
