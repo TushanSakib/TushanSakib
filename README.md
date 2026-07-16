@@ -12,7 +12,7 @@
   <a href="mailto:azizsakib24@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Aziz-Sakib&style=for-the-badge&color=6c5ce7&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=TushanSakib&style=for-the-badge&color=6c5ce7&label=Profile+Views"/>
 
 </div>
 
@@ -77,12 +77,12 @@ class AbdulAzizSakib:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aziz-Sakib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aziz-Sakib&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TushanSakib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TushanSakib&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Aziz-Sakib&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=TushanSakib&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -93,7 +93,7 @@ class AbdulAzizSakib:
 <div align="center">
 
 <!--START_SECTION:contribution-snake-->
-<img src="https://raw.githubusercontent.com/Aziz-Sakib/Aziz-Sakib/output/github-contribution-grid-snake.svg" alt="Contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/TushanSakib/TushanSakib/output/github-contribution-grid-snake.svg" alt="Contribution snake animation"/>
 <!--END_SECTION:contribution-snake-->
 
 </div>
